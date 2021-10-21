@@ -5,3 +5,6 @@ shopping mall project
 개발일정
 2021년 10월 21일
 DB설계
+
+
+이미지 업로드
